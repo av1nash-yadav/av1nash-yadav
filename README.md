@@ -1,5 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning Python
+## avinash chinaar
 <!--
 **av1nash-yadav/av1nash-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
